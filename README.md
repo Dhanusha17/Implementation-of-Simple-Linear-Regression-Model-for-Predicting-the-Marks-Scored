@@ -64,31 +64,33 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-df.head()
+### df.head()
+
 ![229978451-2b6bdc4f-522e-473e-ae2f-84ec824344c5](https://github.com/Dhanusha17/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151549957/5f837e07-f0b5-46e9-85b1-bbe3371c3098)
 
-df.tail()
+### df.tail()
+
 ![229978854-6af7d9e9-537f-4820-a10b-ab537f3d0683](https://github.com/Dhanusha17/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151549957/22009633-b735-4f64-a2c3-33f5047e6c05)
 
-Array value of X
+### Array value of X
 ![229978918-707c006d-0a30-4833-bf77-edd37e8849bb](https://github.com/Dhanusha17/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151549957/f5db28cf-f0fe-47e3-8e52-c828f401866f)
 
-Array value of Y
+### Array value of Y
 ![229978994-b0d2c87c-bef9-4efe-bba2-0bc57d292d20](https://github.com/Dhanusha17/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151549957/2b6a9e76-20b0-4555-8f32-5d75265894dd)
 
-Values of Y prediction
+### Values of Y prediction
 ![229979053-f32194cb-7ed4-4326-8a39-fe8186079b63](https://github.com/Dhanusha17/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151549957/585e9165-766c-406f-b4dd-aeab8dfd339d)
 
-Array values of Y test
+### Array values of Y test
 ![229979114-3667c4b7-7610-4175-9532-5538b83957ac](https://github.com/Dhanusha17/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151549957/d3786c43-ab9f-4afb-8d65-02b46c03f65d)
 
-Training Set Graph
+### Training Set Graph
 ![229979169-ad4db5b6-e238-4d80-ae5b-405638820d35](https://github.com/Dhanusha17/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151549957/61011419-ddde-4fb6-8189-6ef43e776693)
 
-Test Set Graph
+### Test Set Graph
 ![229979225-ba90853c-7fe0-4fb2-8454-a6a0b921bdc1](https://github.com/Dhanusha17/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151549957/ea0aaf68-ea36-4941-a252-daca00fc2a88)
 
-Values of MSE, MAE and RMSE
+### Values of MSE, MAE and RMSE
 
 ![229979276-bb9ffc68-25f8-42fe-9f2a-d7187753aa1c](https://github.com/Dhanusha17/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151549957/491fe607-d895-4d51-ae46-157daade51ce)
 
